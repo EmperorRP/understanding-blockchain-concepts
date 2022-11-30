@@ -12,7 +12,8 @@ PS: haters call it is a glorified global linked list
 
 ## How is a block constructed?
 The goal of a blockchain is to expand itself by adding more blocks at the end. At the end, once a block is added, it is difficult to change the blockchain contents and state of the previous blocks unless a common consensus has been achieved. Depending on the protocol, this is how the next block is constructed: 
+
 1. __PoW or Proof of Work__
-If miners solve a complex math problem with the help of cryptography. Once solved, the block is available for transactions and the miner is rewarded with cryptocurrency. 
+> If miners solve a complex math problem with the help of cryptography. Once solved, the block is available for transactions and the miner is rewarded with cryptocurrency. 
 
 2. PoS or Proof of Stake
