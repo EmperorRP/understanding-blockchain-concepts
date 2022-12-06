@@ -30,3 +30,22 @@ A mempool is short for memory pools. It can be considered a “waiting area” f
 
 ## What is Bitcoin?
 Bitcoin is a blockchain network that enables users to do peer to peer transactions which means that people can use the cryptocurrency as an alternative to cash payments digitally.
+
+## What is Ethereum?
+Similar to Bitcoin, it’s a blockchain that provides for peer to peer transactions and also additionally hosts applications code in “smart contracts”. The apps deployed to Ethereum are called Dapps short for decentralized applications.
+
+## What’s EVM?
+Ethereum virtual machine or EVM is software that is responsible for executing all the smart contracts on Ethereum and gets the state of the Ethereum blockchain after every new block is added to it.
+
+## What are other EVM blockchains?
+
+
+## What is DeFi?
+Decentralized Finance or DeFi is the form of lending, borrowing, paying and receiving of payments on the blockchain to be secure, fast and selectively public. 
+
+
+## What is a DEX?
+A decentralized exchange or DEX is a platform where users can exchange their cryptocurrencies for other cryptocurrencies. Transactions occur directly among the traders since it’s a peer to peer network.
+
+## What are liquidity pools?
+Liquidity pools are smart contracts filled with crypto currency that allow the traders to trade tokens and coins even when there are no buyers and sellers.
