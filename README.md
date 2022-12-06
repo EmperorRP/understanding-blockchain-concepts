@@ -20,3 +20,13 @@ The goal of a blockchain is to expand itself by adding more blocks at the end. A
 > Based on an individual’s stake, a validator is chosen at random and makes cryptocurrency transactions to add a new block to the blockchain. Much more cost efficient and energy efficient than PoW.
 
 
+## What are nodes and clients?
+Clients, especially in Ethereum refer to software program that holds all the info about all transactions to ensure security of the data. Nodes are computers that are connected together on the blockchain and run the same client.
+
+## What is transaction propagation?
+
+## What’s a mempool ?
+A mempool is short for memory pools. It can be considered a “waiting area” for transactions on the blockchain. For example, let’s suppose that A wants to send some ETH to B on Ethereum. This transaction doesn’t happen directly, instead, there is some waiting time during which the transactions are getting verified and validated. These transactions are stored temporarily in the mempool and that’s when they get verified. Once verified, the transaction becomes successful. 
+
+## What is Bitcoin?
+Bitcoin is a blockchain network that enables users to do peer to peer transactions which means that people can use the cryptocurrency as an alternative to cash payments digitally.
