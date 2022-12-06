@@ -16,4 +16,7 @@ The goal of a blockchain is to expand itself by adding more blocks at the end. A
 1. __PoW or Proof of Work__
 > If miners solve a complex math problem with the help of cryptography. Once solved, the block is available for transactions and the miner is rewarded with cryptocurrency. 
 
-2. PoS or Proof of Stake
+2. __PoS or Proof of Stake__
+> Based on an individual’s stake, a validator is chosen at random and makes cryptocurrency transactions to add a new block to the blockchain. Much more cost efficient and energy efficient than PoW.
+
+
